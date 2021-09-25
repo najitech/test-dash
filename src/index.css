@@ -1,0 +1,13 @@
+body{
+    font-family: "Shabnam" ,-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif !important;  
+}
+@font-face {
+    font-family: 'Shabnam';
+    src: local('Shabnam'), url(./fonts/Shabnam.ttf) format('truetype');
+  }
+  @font-face {
+    font-family: 'Vazir';
+    src: local('Vazir'), url(./fonts/Vazir.ttf) format('truetype');
+  }
